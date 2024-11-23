@@ -1,7 +1,6 @@
 
-
 def main():
-    pass #delete this line
+    
     # add your code here - suggested parts added
 
     # Part 1 - get user input
